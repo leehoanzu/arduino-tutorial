@@ -8,6 +8,9 @@
 * ...
 
 #### Screen-shots
+![short-connection](https://github.com/leehoanzu/arduino-tutorial/blob/main/screenshot/short-connecton.gif)
+
+![servo](https://github.com/leehoanzu/arduino-tutorial/blob/main/screenshot/servo.png)
 
 #### Connect me via lehoangvu260602@gmail.com
 
