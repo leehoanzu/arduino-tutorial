@@ -8,6 +8,8 @@
 *.elf
 
 # Ignore Proteus 8.11 project files
+*.pdsprj.ADMIN.lehoa.workspace
+*.pdsbak
 *.dsn
 *.dft
 *.dsf
